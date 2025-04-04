@@ -8,11 +8,6 @@ A Vue + Capacitor template focusing on native iOS-like smooth interactions, espe
 
 https://raw.githubusercontent.com/IvanLin2000/vue-capacitor-ios-chat-demo/main/public/video.mov
 
-Key features demonstrated:
-- Smooth keyboard animations
-- Native-like swipe back gesture
-- Fluid UI transitions
-
 ## Core Dependencies
 
 ```json

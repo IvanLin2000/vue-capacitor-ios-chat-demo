@@ -24,7 +24,8 @@ coverage
 *.sln
 *.sw?
 
-# iOS specific
+# iOS
+ios/
 ios/App/Pods
 ios/App/App/public
 ios/App/build
@@ -41,3 +42,4 @@ xcuserdata/
 # Capacitor
 resources/ios
 resources/android
+

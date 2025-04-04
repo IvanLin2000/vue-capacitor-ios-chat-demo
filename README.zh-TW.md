@@ -4,6 +4,15 @@
 
 專注於實現原生 iOS 般流暢體驗的 Vue + Capacitor 模板，展示如何在混合應用中實現流暢動畫和原生般體驗。
 
+## 展示
+
+https://raw.githubusercontent.com/IvanLin2000/vue-capacitor-ios-chat-demo/main/public/video.mp4
+
+功能展示：
+- 流暢的鍵盤動畫
+- 原生般的右滑返回手勢
+- 順暢的介面轉場效果
+
 ## 核心依賴
 
 ```json

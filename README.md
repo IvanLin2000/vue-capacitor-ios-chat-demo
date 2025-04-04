@@ -6,7 +6,7 @@ A Vue + Capacitor template focusing on native iOS-like smooth interactions, espe
 
 ## Demo
 
-https://raw.githubusercontent.com/IvanLin2000/vue-capacitor-ios-chat-demo/main/public/video.mov
+![Image](https://github.com/user-attachments/assets/7933c2aa-b91c-4a41-868c-4dc5b0be51d4)
 
 ## Core Dependencies
 

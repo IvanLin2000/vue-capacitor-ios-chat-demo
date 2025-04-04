@@ -6,7 +6,7 @@
 
 ## 展示
 
-https://raw.githubusercontent.com/IvanLin2000/vue-capacitor-ios-chat-demo/main/public/video.mp4
+https://raw.githubusercontent.com/IvanLin2000/vue-capacitor-ios-chat-demo/main/public/video.mov
 
 功能展示：
 - 流暢的鍵盤動畫

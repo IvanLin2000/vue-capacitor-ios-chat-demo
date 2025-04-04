@@ -1,0 +1,7 @@
+{
+  "name": "vue-capacitor-ios-chat-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}

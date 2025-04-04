@@ -1,0 +1,12 @@
+{
+  "appId": "vue.capacitor.ios.chat.demo",
+  "appName": "vue-capacitor-ios-chat-demo",
+  "webDir": "dist",
+  "plugins": {
+    "Keyboard": {
+      "resize": "none",
+      "style": "DARK",
+      "resizeOnFullScreen": true
+    }
+  }
+}
